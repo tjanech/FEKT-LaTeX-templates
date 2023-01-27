@@ -1,5 +1,5 @@
-# Fekt-LaTeX-lib
-LaTeX templates for VUT FEKT
+# FEKT-LaTeX-lib
+LaTeX templates for VUT FEKT (BUT FEEC)
 
 ## v 0.2
 - supports up to 4 authors
